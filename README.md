@@ -1,6 +1,7 @@
 
 # Responsibilities 
 - RecycleView
+- Adapter
 - Fragment
 - Search Bar
 - Bottom Navigation Bar
