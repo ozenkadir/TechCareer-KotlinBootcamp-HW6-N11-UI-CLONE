@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_activity_nav"
+    app:startDestination="@id/anasayfaFragment">
+
+    <fragment
+        android:id="@+id/anasayfaFragment"
+        android:name="com.kadiroz.n11clone.ui.fragment.AnasayfaFragment"
+        android:label="fragment_anasayfa"
+        tools:layout="@layout/fragment_anasayfa" />
+    <fragment
+        android:id="@+id/hesabimFragment"
+        android:name="com.kadiroz.n11clone.ui.fragment.HesabimFragment"
+        android:label="fragment_hesabim"
+        tools:layout="@layout/fragment_hesabim" />
+    <fragment
+        android:id="@+id/listelerimFragment"
+        android:name="com.kadiroz.n11clone.ui.fragment.ListelerimFragment"
+        android:label="fragment_listelerim"
+        tools:layout="@layout/fragment_listelerim" />
+    <fragment
+        android:id="@+id/kategorilerFragment"
+        android:name="com.kadiroz.n11clone.ui.fragment.KategorilerFragment"
+        android:label="fragment_kategoriler"
+        tools:layout="@layout/fragment_kategoriler" />
+    <fragment
+        android:id="@+id/sepetimFragment"
+        android:name="com.kadiroz.n11clone.ui.fragment.SepetimFragment"
+        android:label="fragment_sepetim"
+        tools:layout="@layout/fragment_sepetim" />
+</navigation>

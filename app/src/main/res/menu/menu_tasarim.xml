@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/anasayfaFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/anasayfa_resim"
+        android:title="Ana Sayfa" />
+    <item
+        android:id="@+id/kategorilerFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/kategoriler_resim"
+        android:title="Kategoriler" />
+    <item
+        android:id="@+id/sepetimFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/sepetim_resim"
+        android:title="Sepetim" />
+    <item
+        android:id="@+id/listelerimFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/listelerim_resim"
+        android:title="Listelerim" />
+    <item
+        android:id="@+id/hesabimFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/hesabim_resim"
+        android:title="Hesabım" />
+</menu>

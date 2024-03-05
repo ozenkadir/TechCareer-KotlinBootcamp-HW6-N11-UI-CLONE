@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#643fc3</color>
+    <color name="bottomNavigationTextColor">#6a6a6a</color>
+    <color name="logoBackgroundColor">#ffd10d</color>
+    <color name="cardBackgorund">#ded8f2</color>
+    <color name="ramazanColor">#fdd211</color>
+    <color name="marketBackgroundColor">#5ad6fc</color>
+    <color name="starColor">#ffc010</color>
+
+
+</resources>
